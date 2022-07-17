@@ -34,7 +34,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-The following link will take you to the [Horiseon Website](https://mich-hales.github.io/module-1-challenge/Develop/index.html)
+The following [link](https://mich-hales.github.io/module-1-challenge/Develop/index.html) will take you to the Horiseon website.
 
 
 
